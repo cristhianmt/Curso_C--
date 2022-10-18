@@ -4,7 +4,7 @@
 // Start of your program: function block main()
 int main(){
     // Write to the screen
-    printf ("Hello world");
+    std::cout << "Hello World!" << std::endl;
 
     // Return 0 a value to the OS
     return 0;
